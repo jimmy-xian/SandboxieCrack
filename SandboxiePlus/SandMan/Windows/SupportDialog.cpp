@@ -133,8 +133,7 @@ bool CSupportDialog::CheckSupport(bool bOnRun)
 		//ULONG ReminderConfig = 0;
 		//theAPI->GetSecureParam("ReminderConfig", &ReminderConfig, sizeof(ReminderConfig));
 
-		if ((rand() % 5) != 0)
-			return false;
+		return false;
 	}
 	m_ReminderShown = true;
 #endif
