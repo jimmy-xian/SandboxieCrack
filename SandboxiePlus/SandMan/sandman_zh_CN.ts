@@ -3850,7 +3850,7 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
         <location filename="SandMan.cpp" line="196"/>
         <location filename="SandMan.cpp" line="2437"/>
         <source>Sandboxie-Plus v%1</source>
-        <translation>Sandboxie-Plus v%1 免费版本（）</translation>
+        <translation>Sandboxie-Plus v%1 免费版本</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1074"/>
@@ -4147,7 +4147,7 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
         <location filename="SandMan.cpp" line="194"/>
         <location filename="SandMan.cpp" line="2435"/>
         <source>Sandboxie-Plus Insider [%1]</source>
-        <translation>Sandboxie-Plus 内部版本 [%1] 免费版本（）</translation>
+        <translation>Sandboxie-Plus 内部版本 [%1] 免费版本</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="455"/>
